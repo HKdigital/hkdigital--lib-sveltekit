@@ -1,6 +1,6 @@
-# @hkdigital/lib-sveltekit
+# HKdigital's lib Sveltekit
 
-**THIS IS AN EARLY DEVELOPMENT RELEASE**
+**EARLY DEVELOPMENT RELEASE**
 
 This is a library for [SvelteKit](https://svelte.dev/) projects, that contains common code and components that we use to create our projects. 
 
