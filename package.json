@@ -1,6 +1,6 @@
 {
 	"name": "@hkdigital/lib-sveltekit",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Jens Kleinhout, HKdigital (https://hkdigital.nl)",
 	"license": "ISC",
 	"scripts": {
@@ -36,7 +36,7 @@
 	},
 	"peerDependencies": {
 		"svelte": "^5.0.0",
-    "@sveltejs/kit": "^2.7.3"
+		"@sveltejs/kit": "^2.7.3"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.48.2",
