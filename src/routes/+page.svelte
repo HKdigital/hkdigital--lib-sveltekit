@@ -1,3 +1,5 @@
-<h1>Welcome to your library project</h1>
-<p>Create your package using @sveltejs/package and preview/showcase your work with SvelteKit</p>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<div>
+	<h1 class="h1">HKdigital's lib Sveltekit</h1>
+	<p>This library is under heavy development. Please stay tuned for updates.</p>
+	<p>please [contact](https://hkdigital.nl/contact) us if you have any questions</p>
+</div>

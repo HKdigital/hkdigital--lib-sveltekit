@@ -18,6 +18,18 @@ export default [
 		}
 	},
 	{
+		files: ['**/*.svelte.js'],
+		languageOptions: {
+			globals: {
+				...globals.browser,
+				...globals.node,
+				$state: 'readonly',
+				$derived: 'readonly',
+				$effect: 'readonly'
+			}
+		}
+	},
+	{
 		ignores: ['build/', '.svelte-kit/', 'dist/']
 	}
 ];
